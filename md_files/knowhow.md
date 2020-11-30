@@ -29,7 +29,6 @@ latex   : false
 ## frontEnd
 * [css](css.md) 
 * [frontEnd](frontEnd.md) 
-* [reactjs](reactjs.md) 
 * [typescript](typescript.md) 
 * [javascript](javascript.md) 
 ## backEnd
@@ -55,8 +54,3 @@ latex   : false
 * [systemctl](systemctl)
 * [iptables](iptables)
 * [mysetting](mysetting)
-## life
-* [housing](housing.md) 
-* [경력증명서](경력증명서.md) 
-* [interview](interview.md) 
-* [driving_license](driving_license.md)
